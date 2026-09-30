@@ -4,7 +4,7 @@ DrugEdu AI is an AI-powered healthcare and medicine assistant built with React, 
 Key Features / Description Summary
 Direct Medicine Lookup: Search for medicines by name or common aliases (e.g., Paracetamol, Dolo, Crocin, Ibuprofen, Antacids) to get details on usage, common side effects, and safety guidelines.
 
-Smart Symptom Assistant: Enter symptoms (e.g., "I have a fever and headache" or "ಆಮ್ಲೀಯತೆ ಮತ್ತು ಎದೆಯುರಿ") to get categorized medicine suggestions and general health advice.
+Smart Symptom Assistant: Enter symptoms (e.g., "I have a fever and chestpain" or "ಆಮ್ಲೀಯತೆ ಮತ್ತು ಎದೆಯುರಿ") to get categorized medicine suggestions and general health advice.
 
 Bilingual Support: Dynamic language switching between English and Kannada with localized UI and medical information.
 
